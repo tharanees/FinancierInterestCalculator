@@ -4,4 +4,4 @@ Lender will charge an interest of 2.5% per month on the outstanding balance. Tra
 Lender charges interest upon the outstanding balance from the day he lended his money till the day the cheque is realised and money reflects in financier's account.<br/>
 
 Prepares the statement containing the breakdown of interests accrued for each of borrower's post dated cheques and the cumulative interest due in a .docx file.<br/>
-Sample statement can be found [here]()
+Sample statement can be found [here](https://github.com/tharanees/FinancierInterestCalculator/blob/main/THARANEES-08-12-2022-10%2C000.00.doc)
